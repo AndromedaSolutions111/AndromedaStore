@@ -1,0 +1,2 @@
+# AndromedaStore
+Loja Virtual escolar
