@@ -7,7 +7,7 @@ Este projeto utiliza o framework Laravel para criar uma loja virtual voltada par
 ## Tecnologias
 - **Laravel**: Framework PHP.
 - **MySQL**: Banco de dados relacional.
-- **Bootstrap**: Framework front-end.
+- **Bootstrap**: Framework front-end(Enquanto aguardamos o front real para o projecto).
 
 ## Documentação Laravel
 Para mais detalhes sobre o Laravel, veja a [documentação oficial](https://laravel.com/docs).
