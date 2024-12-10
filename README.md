@@ -18,7 +18,7 @@ Siga os passos abaixo para configurar o projeto:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/AndromedaStore.git
+   git clone https://github.com/AndromedaSolutions111/AndromedaStore
    ```
 
 2. Instale as dependências do PHP com o Composer:
