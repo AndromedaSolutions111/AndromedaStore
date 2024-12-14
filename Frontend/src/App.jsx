@@ -1,4 +1,5 @@
 import Header from "./components/Head/Header.jsx";
+import SubHeader from "./components/Head/SubHeader.jsx";
 
 
 
@@ -10,6 +11,7 @@ function App() {
     
       <div>
         <Header />
+        <SubHeader />
     
       <p> Andromeda Coding Solutions</p>
      
